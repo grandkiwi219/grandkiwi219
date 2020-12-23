@@ -26,4 +26,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandkiwi219&layout=compact"/>
 </a>
 
+<br/>
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
