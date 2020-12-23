@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=✨%20Hello%20Everyone!%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=✨%20Hello%20Everyone!%20👋&fontSize=70)
 
 
 > My NickName is grand kiwi! 🥝   
