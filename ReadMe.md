@@ -1,6 +1,5 @@
-# ✨ Hello Everyone! 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=✨%20Hello%20Everyone!%20👋&fontSize=90)
 
-- - -
 
 > My NickName is grand kiwi! 🥝   
 > oωo 💕
@@ -27,4 +26,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandkiwi219&layout=compact"/>
 </a>
 
-- - -
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
