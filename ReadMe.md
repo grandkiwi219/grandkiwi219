@@ -12,7 +12,7 @@
     • javascript (discord.js)
     • html
 
-> I say, "I'm not developer. Just hobby!" ❄
+> I say, "I'm not developer. Just hobby!"
 
 - - -
 
