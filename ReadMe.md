@@ -9,7 +9,10 @@
 
 > I can use this language! 📖 (`Little`):
 
+    Programming   
     • javascript (discord.js)
+
+    Markdown   
     • html
 
 > I say, "I'm not developer. Just hobby!"
