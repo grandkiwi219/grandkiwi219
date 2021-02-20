@@ -21,11 +21,9 @@
 
 > Website   
 >    
-> [grandkiwi219.github.io 🥝](https://grandkiwi219.github.io)   
+> [grandkiwi219.github.io 🥝](https://grandkiwi219.kro.kr)   
 >    
 > [gk219.kro.kr 🌿](https://gk219.kro.kr)   
->    
-> [grandkiwi.kro.kr 🍀](https://www.grandkiwi.kro.kr)
 
 - - -
 
