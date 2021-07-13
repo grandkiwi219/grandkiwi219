@@ -10,7 +10,7 @@
 > I can use this language! 📖 (`Little`):
 
     Programming   
-    • javascript (discord.js)
+    • javascript
 
     Markdown   
     • html
