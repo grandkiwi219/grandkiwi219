@@ -2,8 +2,7 @@
 
 - - -
 
-> My NickName is grand kiwi! 🥝   
-> oωo 💕
+> My NickName is grand kiwi! 🥝
 
 - - -
 
@@ -21,7 +20,7 @@
 
 > Website   
 >    
-> [grandkiwi.kro.kr 🥝](https://grandkiwi.kro.kr)   
+> [grandkiwi.kro.kr 🥝](https://grandkiwi.kro.kr)
 
 - - -
 
