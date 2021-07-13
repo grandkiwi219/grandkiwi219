@@ -7,7 +7,7 @@
 
 - - -
 
-> I can use this language! 📖 (`Little`):
+> I can use this language! 📖 :
 
     Programming   
     • javascript
