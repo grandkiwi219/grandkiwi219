@@ -22,8 +22,6 @@
 > Website   
 >    
 > [grandkiwi.kro.kr 🥝](https://grandkiwi.kro.kr)   
->    
-> [gk219.kro.kr 🌿](https://gk219.kro.kr)   
 
 - - -
 
